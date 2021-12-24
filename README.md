@@ -1,5 +1,4 @@
 # praktikum12
-# praktikum-12
 ## Bahasa Pemrograman { Tugas Pertemuan ke 12 }
 ###  Program sederhana dengan mengaplikasikan penggunaan CLASS yang akan menampilkan daftar nilai
 
